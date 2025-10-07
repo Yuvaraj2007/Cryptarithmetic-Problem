@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:  RAGALA SAI VIVEK     </h3>
-<h3>Register Number/Staff Id:   212223230163   </h3>
+<h3>Name: YUVARAJ M    </h3>
+<h3>Register Number/Staff Id:   21224040377  </h3>
 <H3>Aim:</H3>
 
 <p>
